@@ -3,4 +3,5 @@ papers.json
 requirements.txt
 embeddings.pt
 triplets.json
-Papers/*
+Papers
+Models
