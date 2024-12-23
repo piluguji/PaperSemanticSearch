@@ -1,0 +1,94 @@
+Query: How will quantum computing affect crytocurrencies?
+Best match: The aim of this paper is to elucidate the implications of quantum computing
+in present cryptography and to introduce the reader to basic post-quantum
+algorithms. In particular the reader can delve into the following subjects:
+present cryptographic schemes (symmetric and asymmetric), differences between
+quantum and classical computing, challenges in quantum computing, quantum
+algorithms (Shor's and Grover's), public key encryption schemes affected,
+symmetric schemes affected, the impact on hash functions, and post quantum
+cryptography. Specifically, the section of Post-Quantum Cryptography deals with
+different quantum key distribution methods and mathematicalbased solutions,
+such as the BB84 protocol, lattice-based cryptography, multivariate-based
+cryptography, hash-based signatures and code-based cryptography.
+Similarity: 0.5513
+Similar papers:
+- Post-Quantum Cryptography
+- Towards A Post-Quantum Cryptography in Blockchain I: Basic Review on
+  Theoretical Cryptography and Quantum Information Theory
+- Post-Quantum Cryptography: Securing Digital Communication in the Quantum
+  Era
+--------------------------------------------------
+Query: How can large language models like BERT or GPTs be finetuned efficiently?
+Best match: We study the pre-train + fine-tune strategy for data-to-text tasks. Our
+experiments indicate that text-to-text pre-training in the form of T5, enables
+simple, end-to-end transformer based models to outperform pipelined neural
+architectures tailored for data-to-text generation, as well as alternative
+language model based pre-training techniques such as BERT and GPT-2.
+Importantly, T5 pre-training leads to better generalization, as evidenced by
+large improvements on out-of-domain test sets. We hope our work serves as a
+useful baseline for future research, as transfer learning becomes ever more
+prevalent for data-to-text tasks.
+Similarity: 0.6662
+Similar papers:
+- Downstream Datasets Make Surprisingly Good Pretraining Corpora
+- DOCmT5: Document-Level Pretraining of Multilingual Language Models
+- Back-Translated Task Adaptive Pretraining: Improving Accuracy and
+  Robustness on Text Classification
+--------------------------------------------------
+Query: How can telomerase be used to increase life spans?
+Best match: Telomeres protect the ends of chromosomes but shorten following cell division in the absence of telomerase activity. When telomeres become critically short or damaged, a DNA damage response is activated. Telomeres then become dysfunctional and trigger cellular senescence or death. Telomere shortening occurs with ageing and may contribute to associated maladies such as infertility, neurodegeneration, cancer, lung dysfunction and haematopoiesis disorders. Telomere dysfunction (sometimes without shortening) is associated with various diseases, known as telomere biology disorders (also known as telomeropathies). Telomere biology disorders include dyskeratosis congenita, Høyeraal-Hreidarsson syndrome, Coats plus syndrome and Revesz syndrome. Although mouse models have been invaluable in advancing telomere research, full recapitulation of human telomere-related diseases in mice has been challenging, owing to key differences between the species. In this Review, we discuss telomere protection, maintenance and damage. We highlight the differences between human and mouse telomere biology that may contribute to discrepancies between human diseases and mouse models. Finally, we discuss recent efforts to generate new 'humanized' mouse models to better model human telomere biology. A better understanding of the limitations of mouse telomere models will pave the road for more human-like models and further our understanding of telomere biology disorders, which will contribute towards the development of new therapies.
+Similarity: 0.5242
+Similar papers:
+- Genotype and Associated Cancer Risk in Individuals With Telomere Biology Disorders.
+- Review of hTERT-Immortalized Cells: How to Assess Immortality and Confirm Identity.
+- Chaperone-mediated autophagy as a modulator of aging and longevity.
+--------------------------------------------------
+Query: How will graphene or other solid-state batteries affect charging speeds?
+Best match: The battery market is undergoing quick expansion owing to the urgent demand
+for mobile devices, electric vehicles and energy storage systems, convoying the
+current energy transition. Beyond Li-ion batteries are of high importance to
+follow these multiple-speed changes and adapt to the specificity of each
+application. This review-study will address some of the relevant post-Li ion
+issues and battery technologies, including Na-ion batteries, Mg batteries,
+Ca-ion batteries, Zn-ion batteries, Al-ion batteries and anionic (F- and Cl-)
+shuttle batteries. MH-based batteries are also presented with emphasize on NiMH
+batteries, and novel MH-accommodated Li-ion batteries. Finally, to facilitate
+further research and development some future research trends and directions are
+discussed based on comparison of the different battery systems with respect to
+Li-ion battery assumptions. Remarkably, aqueous systems are most likely to be
+given reconsideration for intensive, cost-effective and safer production of
+batteries; for instance to be utilized in (quasi)-stationary energy storage
+applications.
+Similarity: 0.5946
+Similar papers:
+- Molten Air -- A new, highest energy class of rechargeable batteries
+- Estimation of Remaining Useful Life and SOH of Lithium Ion Batteries
+  (For EV Vehicles)
+- Battery Asset Management with Cycle Life Prognosis
+--------------------------------------------------
+Query: How has robotic and drone technologies impacted agricultural yields?
+Best match: This article explores the use of drones in agriculture and discusses the
+various types of drones employed for different agricultural applications.
+Drones, also known as unmanned aerial vehicles (UAVs), offer numerous
+advantages in farming practices. They provide real-time and high-resolution
+data collection, enabling farmers to make informed irrigation, fertilization,
+and pest management decisions. Drones assist in precision spraying and
+application of agricultural inputs, minimizing chemical wastage and optimizing
+resource utilization. They offer accessibility to inaccessible areas, reduce
+manual labor, and provide cost savings and increased operational efficiency.
+Drones also play a crucial role in mapping and surveying agricultural fields,
+aiding crop planning and resource allocation. However, challenges such as
+regulations and limited flight time need to be addressed. The advantages of
+using drones in agriculture include precision agriculture, cost and time
+savings, improved data collection and analysis, enhanced crop management,
+accessibility and flexibility, environmental sustainability, and increased
+safety for farmers. Overall, drones have the potential to revolutionize farming
+practices, leading to increased efficiency, productivity, and sustainability in
+agriculture.
+Similarity: 0.6401
+Similar papers:
+- A review of Implementation and Challenges of Unmanned Aerial Vehicles
+  for Spraying Applications and Crop Monitoring in Indonesia
+- Autonomous Navigation System for a Delivery Drone
+- Some Problems of Deployment and Navigation of Civilian Aerial Drones
+--------------------------------------------------
