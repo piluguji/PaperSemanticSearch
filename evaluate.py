@@ -74,7 +74,7 @@ while True:
     output.append("-" * 50 + "\n")
     
     # Write to file
-    with open(output_file, "a") as f:
+    with open(output_file, "a",  encoding='utf-8') as f:
         f.writelines(output)
     
     # Print to console as well (optional)
