@@ -1,94 +1,191 @@
-Query: How will quantum computing affect crytocurrencies?
-Best match: The aim of this paper is to elucidate the implications of quantum computing
-in present cryptography and to introduce the reader to basic post-quantum
-algorithms. In particular the reader can delve into the following subjects:
-present cryptographic schemes (symmetric and asymmetric), differences between
-quantum and classical computing, challenges in quantum computing, quantum
-algorithms (Shor's and Grover's), public key encryption schemes affected,
-symmetric schemes affected, the impact on hash functions, and post quantum
-cryptography. Specifically, the section of Post-Quantum Cryptography deals with
-different quantum key distribution methods and mathematicalbased solutions,
-such as the BB84 protocol, lattice-based cryptography, multivariate-based
-cryptography, hash-based signatures and code-based cryptography.
-Similarity: 0.5513
+Query: How do environmental factors (e.g., air pollution, diet) interact with genetic predispositions in cancer risk?
+Best match: Cytochromes P450 (CYPs) are heme-containing oxidoreductase enzymes with mono-oxygenase activity. Human CYPs catalyze the oxidation of a great variety of chemicals, including xenobiotics, steroid hormones, vitamins, bile acids, procarcinogens, and drugs.In our review article, we discuss recent data evidencing that the same CYP isoform can be involved in both bioactivation and detoxification reactions and convert the same substrate to different products. Conversely, different CYP isoforms can convert the same substrate, xenobiotic or procarcinogen, into either a more or less toxic product. These phenomena depend on the type of catalyzed reaction, substrate, tissue type, and biological species. Since the CYPs involved in bioactivation (CYP3A4, CYP1A1, CYP2D6, and CYP2C8) are primarily expressed in the liver, their metabolites can induce hepatotoxicity and hepatocarcinogenesis. Additionally, we discuss the role of drugs as CYP substrates, inducers, and inhibitors as well as the implication of nuclear receptors, efflux transporters, and drug-drug interactions in anticancer drug resistance. We highlight the molecular mechanisms underlying the development of hormone-sensitive cancers, including breast, ovarian, endometrial, and prostate cancers. Key players in these mechanisms are the 2,3- and 3,4-catechols of estrogens, which are formed by CYP1A1, CYP1A2, and CYP1B1. The catechols can also produce quinones, leading to the formation of toxic protein and DNA adducts that contribute to cancer progression. However, 2-hydroxy- and 4-hydroxy-estrogens and their O-methylated derivatives along with conjugated metabolites play cancer-protective roles. CYP17A1 and CYP11A1, which are involved in the biosynthesis of testosterone precursors, contribute to prostate cancer, whereas conversion of testosterone to 5α-dihydrotestosterone as well as sustained activation and mutation of the androgen receptor are implicated in metastatic castration-resistant prostate cancer (CRPC). CYP enzymatic activities are influenced by  gene polymorphisms, although a significant portion of them have no effects. However,  polymorphisms can determine poor, intermediate, rapid, and ultrarapid metabolizer genotypes, which can affect cancer and drug susceptibility. Despite limited statistically significant data, associations between  polymorphisms and cancer risk, tumor size, and metastatic status among various populations have been demonstrated.The metabolic diversity and dual character of biological effects of CYPs underlie their implications in, preliminarily, hormone-sensitive cancers. Variations in CYP activities and  gene polymorphisms are implicated in the interindividual variability in cancer and drug susceptibility. The development of CYP inhibitors provides options for personalized anticancer therapy.
+Similarity: 0.5623
 Similar papers:
-- Post-Quantum Cryptography
-- Towards A Post-Quantum Cryptography in Blockchain I: Basic Review on
-  Theoretical Cryptography and Quantum Information Theory
-- Post-Quantum Cryptography: Securing Digital Communication in the Quantum
-  Era
+- Quantification of multi-pathway metabolites related to folate metabolism and application in natural population with MTHFR C677T polymorphism.
+- Therapeutic potential of Xihuang Pill in colorectal cancer: Metabolomic and microbiome-driven approaches.
+- Understanding the biological processes of kidney carcinogenesis: an integrative multi-omics approach.
 --------------------------------------------------
-Query: How can large language models like BERT or GPTs be finetuned efficiently?
-Best match: We study the pre-train + fine-tune strategy for data-to-text tasks. Our
-experiments indicate that text-to-text pre-training in the form of T5, enables
-simple, end-to-end transformer based models to outperform pipelined neural
-architectures tailored for data-to-text generation, as well as alternative
-language model based pre-training techniques such as BERT and GPT-2.
-Importantly, T5 pre-training leads to better generalization, as evidenced by
-large improvements on out-of-domain test sets. We hope our work serves as a
-useful baseline for future research, as transfer learning becomes ever more
-prevalent for data-to-text tasks.
-Similarity: 0.6662
+Query: How can early genetic screening improve the detection and prevention of hereditary cancers?
+Best match: Cytochromes P450 (CYPs) are heme-containing oxidoreductase enzymes with mono-oxygenase activity. Human CYPs catalyze the oxidation of a great variety of chemicals, including xenobiotics, steroid hormones, vitamins, bile acids, procarcinogens, and drugs.In our review article, we discuss recent data evidencing that the same CYP isoform can be involved in both bioactivation and detoxification reactions and convert the same substrate to different products. Conversely, different CYP isoforms can convert the same substrate, xenobiotic or procarcinogen, into either a more or less toxic product. These phenomena depend on the type of catalyzed reaction, substrate, tissue type, and biological species. Since the CYPs involved in bioactivation (CYP3A4, CYP1A1, CYP2D6, and CYP2C8) are primarily expressed in the liver, their metabolites can induce hepatotoxicity and hepatocarcinogenesis. Additionally, we discuss the role of drugs as CYP substrates, inducers, and inhibitors as well as the implication of nuclear receptors, efflux transporters, and drug-drug interactions in anticancer drug resistance. We highlight the molecular mechanisms underlying the development of hormone-sensitive cancers, including breast, ovarian, endometrial, and prostate cancers. Key players in these mechanisms are the 2,3- and 3,4-catechols of estrogens, which are formed by CYP1A1, CYP1A2, and CYP1B1. The catechols can also produce quinones, leading to the formation of toxic protein and DNA adducts that contribute to cancer progression. However, 2-hydroxy- and 4-hydroxy-estrogens and their O-methylated derivatives along with conjugated metabolites play cancer-protective roles. CYP17A1 and CYP11A1, which are involved in the biosynthesis of testosterone precursors, contribute to prostate cancer, whereas conversion of testosterone to 5α-dihydrotestosterone as well as sustained activation and mutation of the androgen receptor are implicated in metastatic castration-resistant prostate cancer (CRPC). CYP enzymatic activities are influenced by  gene polymorphisms, although a significant portion of them have no effects. However,  polymorphisms can determine poor, intermediate, rapid, and ultrarapid metabolizer genotypes, which can affect cancer and drug susceptibility. Despite limited statistically significant data, associations between  polymorphisms and cancer risk, tumor size, and metastatic status among various populations have been demonstrated.The metabolic diversity and dual character of biological effects of CYPs underlie their implications in, preliminarily, hormone-sensitive cancers. Variations in CYP activities and  gene polymorphisms are implicated in the interindividual variability in cancer and drug susceptibility. The development of CYP inhibitors provides options for personalized anticancer therapy.
+Similarity: 0.5007
 Similar papers:
-- Downstream Datasets Make Surprisingly Good Pretraining Corpora
-- DOCmT5: Document-Level Pretraining of Multilingual Language Models
-- Back-Translated Task Adaptive Pretraining: Improving Accuracy and
-  Robustness on Text Classification
+- Quantification of multi-pathway metabolites related to folate metabolism and application in natural population with MTHFR C677T polymorphism.
+- Therapeutic potential of Xihuang Pill in colorectal cancer: Metabolomic and microbiome-driven approaches.
+- Understanding the biological processes of kidney carcinogenesis: an integrative multi-omics approach.
 --------------------------------------------------
-Query: How can telomerase be used to increase life spans?
-Best match: Telomeres protect the ends of chromosomes but shorten following cell division in the absence of telomerase activity. When telomeres become critically short or damaged, a DNA damage response is activated. Telomeres then become dysfunctional and trigger cellular senescence or death. Telomere shortening occurs with ageing and may contribute to associated maladies such as infertility, neurodegeneration, cancer, lung dysfunction and haematopoiesis disorders. Telomere dysfunction (sometimes without shortening) is associated with various diseases, known as telomere biology disorders (also known as telomeropathies). Telomere biology disorders include dyskeratosis congenita, H�yeraal-Hreidarsson syndrome, Coats plus syndrome and Revesz syndrome. Although mouse models have been invaluable in advancing telomere research, full recapitulation of human telomere-related diseases in mice has been challenging, owing to key differences between the species. In this Review, we discuss telomere protection, maintenance and damage. We highlight the differences between human and mouse telomere biology that may contribute to discrepancies between human diseases and mouse models. Finally, we discuss recent efforts to generate new 'humanized' mouse models to better model human telomere biology. A better understanding of the limitations of mouse telomere models will pave the road for more human-like models and further our understanding of telomere biology disorders, which will contribute towards the development of new therapies.
-Similarity: 0.5242
+Query: What are efficient strategies for multi-agent coordination in decentralized environments?
+Best match: Despite the prevalence of wireless connectivity in urban areas around the
+globe, there remain numerous and diverse situations where connectivity is
+insufficient or unavailable. To address this, we introduce mobile wireless
+infrastructure on demand, a system of UAVs that can be rapidly deployed to
+establish an ad-hoc wireless network. This network has the capability of
+reconfiguring itself dynamically to satisfy and maintain the required quality
+of communication. The system optimizes the positions of the UAVs and the
+routing of data flows throughout the network to achieve this quality of service
+(QoS). By these means, task agents using the network simply request a desired
+QoS, and the system adapts accordingly while allowing them to move freely. We
+have validated this system both in simulation and in real-world experiments.
+The results demonstrate that our system effectively offers mobile wireless
+infrastructure on demand, extending the operational range of task agents and
+supporting complex mobility patterns, all while ensuring connectivity and being
+resilient to agent failures.
+Similarity: 0.6477
 Similar papers:
-- Genotype and Associated Cancer Risk in Individuals With Telomere Biology Disorders.
-- Review of hTERT-Immortalized Cells: How to Assess Immortality and Confirm Identity.
-- Chaperone-mediated autophagy as a modulator of aging and longevity.
+- Distributed Hierarchical Distribution Control for Very-Large-Scale
+  Clustered Multi-Agent Systems
+- Swarm Relays: Distributed Self-Healing Ground-and-Air Connectivity
+  Chains
+- End-to-End Design for Self-Reconfigurable Heterogeneous Robotic Swarms
 --------------------------------------------------
-Query: What battery innovations are there to speed charging speeds?
-Best match: The battery market is undergoing quick expansion owing to the urgent demand
-for mobile devices, electric vehicles and energy storage systems, convoying the
-current energy transition. Beyond Li-ion batteries are of high importance to
-follow these multiple-speed changes and adapt to the specificity of each
-application. This review-study will address some of the relevant post-Li ion
-issues and battery technologies, including Na-ion batteries, Mg batteries,
-Ca-ion batteries, Zn-ion batteries, Al-ion batteries and anionic (F- and Cl-)
-shuttle batteries. MH-based batteries are also presented with emphasize on NiMH
-batteries, and novel MH-accommodated Li-ion batteries. Finally, to facilitate
-further research and development some future research trends and directions are
-discussed based on comparison of the different battery systems with respect to
-Li-ion battery assumptions. Remarkably, aqueous systems are most likely to be
-given reconsideration for intensive, cost-effective and safer production of
-batteries; for instance to be utilized in (quasi)-stationary energy storage
-applications.
-Similarity: 0.5946
+Query: Can we develop lightweight models capable of running real-time object detection on edge devices?
+Best match: Estimating 3D orientation and translation of objects is essential for
+infrastructure-less autonomous navigation and driving. In case of monocular
+vision, successful methods have been mainly based on two ingredients: (i) a
+network generating 2D region proposals, (ii) a R-CNN structure predicting 3D
+object pose by utilizing the acquired regions of interest. We argue that the 2D
+detection network is redundant and introduces non-negligible noise for 3D
+detection. Hence, we propose a novel 3D object detection method, named SMOKE,
+in this paper that predicts a 3D bounding box for each detected object by
+combining a single keypoint estimate with regressed 3D variables. As a second
+contribution, we propose a multi-step disentangling approach for constructing
+the 3D bounding box, which significantly improves both training convergence and
+detection accuracy. In contrast to previous 3D detection techniques, our method
+does not require complicated pre/post-processing, extra data, and a refinement
+stage. Despite of its structural simplicity, our proposed SMOKE network
+outperforms all existing monocular 3D detection methods on the KITTI dataset,
+giving the best state-of-the-art result on both 3D object detection and Bird's
+eye view evaluation. The code will be made publicly available.
+Similarity: 0.6710
 Similar papers:
-- Molten Air -- A new, highest energy class of rechargeable batteries
-- Estimation of Remaining Useful Life and SOH of Lithium Ion Batteries
-  (For EV Vehicles)
-- Battery Asset Management with Cycle Life Prognosis
+- M3D-RPN: Monocular 3D Region Proposal Network for Object Detection
+- Kinematic 3D Object Detection in Monocular Video
+- Object-Aware Centroid Voting for Monocular 3D Object Detection
 --------------------------------------------------
-Query: How has robotic and drone technologies impacted agricultural yields?
-Best match: This article explores the use of drones in agriculture and discusses the
-various types of drones employed for different agricultural applications.
-Drones, also known as unmanned aerial vehicles (UAVs), offer numerous
-advantages in farming practices. They provide real-time and high-resolution
-data collection, enabling farmers to make informed irrigation, fertilization,
-and pest management decisions. Drones assist in precision spraying and
-application of agricultural inputs, minimizing chemical wastage and optimizing
-resource utilization. They offer accessibility to inaccessible areas, reduce
-manual labor, and provide cost savings and increased operational efficiency.
-Drones also play a crucial role in mapping and surveying agricultural fields,
-aiding crop planning and resource allocation. However, challenges such as
-regulations and limited flight time need to be addressed. The advantages of
-using drones in agriculture include precision agriculture, cost and time
-savings, improved data collection and analysis, enhanced crop management,
-accessibility and flexibility, environmental sustainability, and increased
-safety for farmers. Overall, drones have the potential to revolutionize farming
-practices, leading to increased efficiency, productivity, and sustainability in
-agriculture.
-Similarity: 0.6401
+Query: How can AI be used to detect and mitigate misinformation and fake news in real-time?
+Best match: The rapid advancement of Large Language Models (LLMs) has ushered in an era
+where AI-generated text is increasingly indistinguishable from human-generated
+content. Detecting AI-generated text has become imperative to combat
+misinformation, ensure content authenticity, and safeguard against malicious
+uses of AI. In this paper, we propose a novel hybrid approach that combines
+traditional TF-IDF techniques with advanced machine learning models, including
+Bayesian classifiers, Stochastic Gradient Descent (SGD), Categorical Gradient
+Boosting (CatBoost), and 12 instances of Deberta-v3-large models. Our approach
+aims to address the challenges associated with detecting AI-generated text by
+leveraging the strengths of both traditional feature extraction methods and
+state-of-the-art deep learning models. Through extensive experiments on a
+comprehensive dataset, we demonstrate the effectiveness of our proposed method
+in accurately distinguishing between human and AI-generated text. Our approach
+achieves superior performance compared to existing methods. This research
+contributes to the advancement of AI-generated text detection techniques and
+lays the foundation for developing robust solutions to mitigate the challenges
+posed by AI-generated content.
+Similarity: 0.6526
 Similar papers:
-- A review of Implementation and Challenges of Unmanned Aerial Vehicles
-  for Spraying Applications and Crop Monitoring in Indonesia
-- Autonomous Navigation System for a Delivery Drone
-- Some Problems of Deployment and Navigation of Civilian Aerial Drones
+- Stylometric Detection of AI-Generated Text in Twitter Timelines
+- MiRAGeNews: Multimodal Realistic AI-Generated News Detection
+- Analysis and prevention of AI-based phishing email attacks
+--------------------------------------------------
+Query: How can biomarkers be used to predict the effectiveness of personalized treatments in oncology?
+Best match: Antibody-drug conjugates (ADCs) have revolutionized the treatment landscape for metastatic breast cancer, offering targeted delivery of cytotoxic agents with improved efficacy and tolerability compared to conventional chemotherapy. This narrative review explores key predictive factors influencing the efficacy of ADCs, focusing on HER2-targeted therapies, such as trastuzumab emtansine and trastuzumab deruxtecan, as well as sacituzumab govitecan for triple-negative breast cancer. HER2 expression, TROP-2 levels, hormone receptor status, and the tumor microenvironment emerge as critical biomarkers for patient selection and therapeutic outcomes. Additionally, we discuss resistance mechanisms, such as antigen loss, impaired drug internalization, and the role of circulating tumor DNA in predicting ADC response. Finally, future perspectives on the sequential use of ADCs and potential combination therapies are highlighted, along with emerging agents targeting alternative antigens like HER3 and LIV-1. Overall, identifying predictive biomarkers and overcoming resistance mechanisms are essential for optimizing the use of ADCs in metastatic breast cancer, thereby improving patient outcomes.
+Similarity: 0.5379
+Similar papers:
+- Understanding the Preclinical Efficacy of Antibody-Drug Conjugates.
+- [Sacituzumab govitecan in the treatment of triple-negative metastatic breast cancer.].
+- Mechanism of miRNAs and miRNA-mRNA Regulatory Networks in Modulating Drug Resistance in HER2-Positive Breast Cancer: An Integrative Bioinformatics Approach.
+--------------------------------------------------
+Query: How do gravitational waves provide insights into the formation of black holes and neutron stars?
+Best match: We develop a numerical chemical model allowing for radial flows of gas, with
+the aim to analyse the possible role of gas flows in the chemical evolution of
+the Galactic Disc. The dynamical effects of the Galactic Bar on the radial gas
+profile of the Disc are especially addressed.
+Similarity: 0.5059
+Similar papers:
+- The Challenge of Modelling Galactic Disks
+- Galactic Winds and the Role Played by Massive Stars
+- Stability of two-fluid galactic disc under the influence of an external
+  tidal field
+--------------------------------------------------
+Query: What are the limitations of current theories in explaining the early moments of the Big Bang?
+Best match: The Hot Big Bang is often considered as the origin of all matter and
+radiation in the Universe. Primordial nucleosynthesis (BBN) provides strong
+evidence that the early Universe contained a hot plasma of photons and baryons
+with a temperature $T>\text{MeV}$. However, the earliest probes of dark matter
+originate from much later times around the epoch of structure formation. In
+this work we describe a scenario in which dark matter (and possibly dark
+radiation) can be formed around or even after BBN in a second Big Bang which we
+dub the ``Dark Big Bang''. The latter occurs through a phase transition in the
+dark sector which transforms dark vacuum energy into a hot dark plasma of
+particles; in this paper we focus on a first-order phase transition for the
+Dark Big Bang. The correct dark matter abundance can be set by dark matter
+cannibalism or by pair-annihilation within the dark sector followed by a
+thermal freeze-out. Alternatively ultra-heavy ``dark-zilla'' dark matter can
+originate directly from bubble collisions during the Dark Big Bang. We will
+show that the Dark Big Bang is consistent with constraints from structure
+formation and the Cosmic Microwave Background (CMB) if it occurred when the
+Universe was less than one month old, corresponding to a temperature in the
+visible sector above $\mathcal{O}$(keV). While the dark matter evades direct
+and indirect detection, the Dark Big Bang gives rise to striking gravity wave
+signatures to be tested at pulsar timing array experiments. Furthermore, the
+Dark Big Bang allows for realizations of self-interacting and/or warm dark
+matter which suggest exciting discovery potential in future small-scale
+structure observations.
+Similarity: 0.4853
+Similar papers:
+- Supernova signals of light dark matter
+- Dark matter, black holes, and gravitational waves
+- Black holes
+--------------------------------------------------
+Query: What are effective strategies for managing inflation in volatile economic environments?
+Best match: The financial sector is increasingly concerned with the physical risks of
+climate change, but economic and financial impact representations are still
+developing, particularly for chronic risks. Mexico's Central Bank conducted a
+comprehensive assessment using a suite of global models to evaluate both
+physical and transition risks. We present the analysis concerning with chronic
+physical risks, underlining innovations such as the use of a recent integrated
+assessment model that enables grid-cell level analysis and differentiates urban
+and non-urban areas, capturing the local effects of climate change more
+accurately. The model includes multiple damage functions and a probabilistic
+climate model for encompassing analyses and detailed economic impact insights.
+Under the Current Policies scenario, economic losses could exceed 35 percent of
+Mexico's GDP by 2100. Accounting for the urban heat island effect, losses could
+surpass 20 trillion (USD) in present value, over ten times Mexico's 2024 GDP.
+However, implementing a scenario aligned with the Paris Agreement significantly
+reduces these losses, showcasing the benefits of international mitigation
+efforts, though substantial residual impacts persist. This study emphasizes
+integrating chronic physical risks into financial evaluations, proposing new
+approaches, metrics, and methods that exploit detailed, spatially explicit
+measures to improve risk and loss estimation and facilitate communication.
+Similarity: 0.5713
+Similar papers:
+- Managing Financial Climate Risk in Banking Services: A Review of Current
+  Practices and the Challenges Ahead
+- A Stochastic Climate Model -- An approach to calibrate the
+  Climate-Extended Risk Model (CERM)
+- Climate-Contingent Finance
+--------------------------------------------------
+Query: How can quantum algorithms outperform classical ones for solving real-world optimization problems?
+Best match: Quantum computation and quantum information are of great current interest in
+computer science, mathematics, physical sciences and engineering. They will
+likely lead to a new wave of technological innovations in communication,
+computation and cryptography. As the theory of quantum physics is fundamentally
+stochastic, randomness and uncertainty are deeply rooted in quantum
+computation, quantum simulation and quantum information. Consequently quantum
+algorithms are random in nature, and quantum simulation utilizes Monte Carlo
+techniques extensively. Thus statistics can play an important role in quantum
+computation and quantum simulation, which in turn offer great potential to
+revolutionize computational statistics. While only pseudo-random numbers can be
+generated by classical computers, quantum computers are able to produce genuine
+random numbers; quantum computers can exponentially or quadratically speed up
+median evaluation, Monte Carlo integration and Markov chain simulation. This
+paper gives a brief review on quantum computation, quantum simulation and
+quantum information. We introduce the basic concepts of quantum computation and
+quantum simulation and present quantum algorithms that are known to be much
+faster than the available classic algorithms. We provide a statistical
+framework for the analysis of quantum algorithms and quantum simulation.
+Similarity: 0.5837
+Similar papers:
+- An Introduction to Quantum Computing
+- Quantum Algorithms
+- The universe as quantum computer
 --------------------------------------------------
